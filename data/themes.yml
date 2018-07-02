@@ -1,2 +1,2 @@
 - { colors: '#181818,#3A5F6E,#24A4F3,#FFFFFF,#202020,#F1F2F3,#3A5F6E,#6EC6F5', name: 'Enterprise Jungle Dark' }
-- { colors: '#F1F2F3,#3A5F6E,#202020,#6EC6F5,#202020,#3A5F6E,#6EC6F5,#6EC6F5', name: 'Enterprise Jungle Light' }
+- { colors: '#F1F2F3,#24A4F3,#202020,#24A4F3,#202020,#3A5F6E,#6EC6F5,#6EC6F5', name: 'Enterprise Jungle Light' }
