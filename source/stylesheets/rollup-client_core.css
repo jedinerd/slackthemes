@@ -1085,7 +1085,7 @@ hr{margin:1.25rem 0}
 .client_header_button:hover .client_header_icon.icon_flex_pane{background-position:-2px -128px}
 #help_icon #help_icon_info{-webkit-transform:translateX(-0.5px);-moz-transform:translateX(-0.5px);-o-transform:translateX(-0.5px);-ms-transform:translateX(-0.5px);transform:translateX(-0.5px)}
 }
-.client_header_icon.icon_help::before{content:url(/cadd/img/header_icons.png) url(/cadd/img/header_icons@2x.png);display:none}
+.client_header_icon.icon_help::before{content:url(cadd/img/header_icons.png) url(/cadd/img/header_icons@2x.png);display:none}
 #header{background:white;height:53px;position:fixed;z-index:100;min-width:768px;width:100%}
 #header .client_header_button{height:30px;width:30px;border-radius:15px;background:#fdfdfd;border:1px solid #ccc}
 #header .client_header_button:hover{background:#fdfdfd;border:1px solid #35a6ee}

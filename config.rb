@@ -63,7 +63,7 @@ configure :build do
   activate :screenshot_generator
 
   # For example, change the Compass output style for deployment
-  # activate :minify_css
+#  activate :minify_css
 
   # Minify Javascript on build
   activate :minify_javascript
@@ -75,7 +75,6 @@ configure :build do
   activate :relative_assets
 
   # Or use a different image path
-  # set :http_prefix, "/Content/images/"
 end
 
 activate :google_analytics do |ga|
